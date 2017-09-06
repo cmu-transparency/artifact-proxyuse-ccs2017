@@ -1,0 +1,4 @@
+label	epsilon	delta	size	height	va	ha	xtext	ytext	color	model	ident
+relationship $\leq$ 0.5	0.383606651953	0.136436	3	2	baseline	right	-36.0	0.0	black	decision-tree	exps.
+root	0.0612869655522	0.315168	106	7	baseline	right	-18.0	0.0	black	decision-tree	exps.
+maximal	1.0	0.315168	106	7	baseline	right	-9.0	0.0	black	decision-tree	exps.

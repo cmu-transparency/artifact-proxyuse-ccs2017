@@ -1,0 +1,3 @@
+label	epsilon	delta	size	height	va	ha	xtext	ytext	color	model	ident
+$A$	0.0989491109888	0.106904	26	5	baseline	right	-18.0	18.0	blue	nomodel	$A$
+threshold	0.06	0.08	1	1	baseline	right	-18.0	18.0	red	nomodel	nolabel

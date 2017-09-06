@@ -1,0 +1,6 @@
+label	epsilon	delta	size	height	va	ha	xtext	ytext	color	model	ident
+relationship $\leq$ -0.573	0.383606651953	0.136436	3	2	baseline	left	-15.0	16.0	blue	nomodel	noident
+-0.026 * relationship	0.382779488253	0.109057	3	2	baseline	right	-35.0	16.0	red	nomodel	noident
+relationship $\leq$ -0.573493	0.383606651953	0.037536	3	2	baseline	right	-90.0	18.0	green	nomodel	noident
+relationship $\leq$ -0.573493	0.383606651953	0.011896	3	2	baseline	right	-90.0	0.0	green	nomodel	noident
+relationship $\leq$ -0.573493	0.383606651953	0.031048	3	2	baseline	right	-90.0	-18.0	green	nomodel	noident
