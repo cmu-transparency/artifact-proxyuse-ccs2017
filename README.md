@@ -1,5 +1,4 @@
-# Use Privacy in Data-Driven Systems: Theory and Experiments with
-# Machine Learnt Programs
+# Use Privacy in Data-Driven Systems: Theory and Experiments with Machine Learnt Programs
 # CCS 2017 Paper Experiments
 
 ## Installing
